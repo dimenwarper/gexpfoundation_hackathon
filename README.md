@@ -1,2 +1,2 @@
 # gexpfoundation_hackathon
-placeholder for the bio ml hackathong project
+placeholder for the bio ml hackathon project
